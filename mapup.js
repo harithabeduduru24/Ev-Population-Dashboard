@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const dataFile = 'data-to-visualize/Electric_Vehicle_Population_Data.csv';  // Correct path to your CSV dataset file
+    const dataFile = 'Electric_Vehicle_Population_Data.csv';  // Correct path to your CSV dataset file
     console.log("dataFile:", dataFile);
     
     // Show the loader when data is being fetched
